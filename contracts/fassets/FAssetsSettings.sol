@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.25;
+pragma solidity ^0.8.20;
 
 // Import the AssetManager interface
 import {IAssetManager} from "@flarenetwork/flare-periphery-contracts/coston/IAssetManager.sol";
